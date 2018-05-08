@@ -1,1 +1,1 @@
-# ShinyApp_WorldHappiness
+This shiny web app allows users to visualize how happiness varies across time and geography.
